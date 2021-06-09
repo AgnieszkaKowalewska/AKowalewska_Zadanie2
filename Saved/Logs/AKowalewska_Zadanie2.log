@@ -1318,3 +1318,167 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.09-22.12.25:638][241]AssetCheck: New page: Asset Save: multiple assets
 [2021.06.09-22.12.25:638][241]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/MainLevel_BuiltData.MainLevel_BuiltData
 [2021.06.09-22.12.25:638][241]LogContentValidation: Display: Validating World /Game/Levels/MainLevel.MainLevel
+[2021.06.09-23.15.35:504][329]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Canons/BP_Canon.BP_Canon
+[2021.06.09-23.16.07:097][ 65]LogEditorTransaction: Undo Move Node
+[2021.06.09-23.16.08:263][102]LogEditorTransaction: Undo Promote To Variable
+[2021.06.09-23.16.41:236][634]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2021.06.09-23.16.41:310][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainLevel" FILE="D:/UŚ/SilnikiGier/Zadanie_02/AKowalewska_Zadanie2/Saved/Autosaves/Game/Levels/MainLevel_Auto8.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.06.09-23.16.41:340][634]LogSavePackage: Moving 'D:/UŚ/SilnikiGier/Zadanie_02/AKowalewska_Zadanie2/Saved/MainLevel_Auto81898933245190B1CC0B61796BAD00C7F.tmp' to 'D:/UŚ/SilnikiGier/Zadanie_02/AKowalewska_Zadanie2/Saved/Autosaves/Game/Levels/MainLevel_Auto8.umap'
+[2021.06.09-23.16.41:385][634]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainLevel' took 0.184
+[2021.06.09-23.16.41:385][634]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.184
+[2021.06.09-23.16.41:385][634]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Canons/BP_Canon] ([2] browsable assets)...
+[2021.06.09-23.16.41:400][634]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Canons/BP_Canon.BP_Canon]
+[2021.06.09-23.16.41:448][634]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Canons/BP_Canon.BP_Canon]
+[2021.06.09-23.16.41:448][634]OBJ SavePackage: Finished generating thumbnails for package [/Game/Canons/BP_Canon]
+[2021.06.09-23.16.41:448][634]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Canons/BP_Canon" FILE="D:/UŚ/SilnikiGier/Zadanie_02/AKowalewska_Zadanie2/Saved/Autosaves/Game/Canons/BP_Canon_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2021.06.09-23.16.41:467][634]LogSavePackage: Moving 'D:/UŚ/SilnikiGier/Zadanie_02/AKowalewska_Zadanie2/Saved/BP_Canon_Auto8DAAA0F18424DFBC2E8FB31ACB3EA683F.tmp' to 'D:/UŚ/SilnikiGier/Zadanie_02/AKowalewska_Zadanie2/Saved/Autosaves/Game/Canons/BP_Canon_Auto8.uasset'
+[2021.06.09-23.16.41:467][634]LogFileHelpers: Auto-saving content packages took 0.082
+[2021.06.09-23.21.04:391][831]BlueprintLog: New page: Compile BP_Canon
+[2021.06.09-23.21.04:531][831]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2021.06.09-23.21.12:214][136]LogEditorViewport: Clicking on Actor (LMB): BP_Canon_C (BP_Canon)
+[2021.06.09-23.26.41:789][178]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2021.06.09-23.26.41:852][178]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainLevel" FILE="D:/UŚ/SilnikiGier/Zadanie_02/AKowalewska_Zadanie2/Saved/Autosaves/Game/Levels/MainLevel_Auto9.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.06.09-23.26.41:901][178]LogSavePackage: Moving 'D:/UŚ/SilnikiGier/Zadanie_02/AKowalewska_Zadanie2/Saved/MainLevel_Auto9070ABAFF445F59254E2883AB75B0C61F.tmp' to 'D:/UŚ/SilnikiGier/Zadanie_02/AKowalewska_Zadanie2/Saved/Autosaves/Game/Levels/MainLevel_Auto9.umap'
+[2021.06.09-23.26.41:903][178]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainLevel' took 0.150
+[2021.06.09-23.26.41:903][178]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.150
+[2021.06.09-23.26.41:904][178]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Canons/BP_Canon] ([2] browsable assets)...
+[2021.06.09-23.26.41:944][178]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Canons/BP_Canon.BP_Canon]
+[2021.06.09-23.26.41:977][178]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Canons/BP_Canon.BP_Canon]
+[2021.06.09-23.26.41:977][178]OBJ SavePackage: Finished generating thumbnails for package [/Game/Canons/BP_Canon]
+[2021.06.09-23.26.41:977][178]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Canons/BP_Canon" FILE="D:/UŚ/SilnikiGier/Zadanie_02/AKowalewska_Zadanie2/Saved/Autosaves/Game/Canons/BP_Canon_Auto9.uasset" SILENT=false AUTOSAVING=true
+[2021.06.09-23.26.42:015][178]LogSavePackage: Moving 'D:/UŚ/SilnikiGier/Zadanie_02/AKowalewska_Zadanie2/Saved/BP_Canon_Auto98A610AF74DBAA7D6E4E3CDB0CAF795BF.tmp' to 'D:/UŚ/SilnikiGier/Zadanie_02/AKowalewska_Zadanie2/Saved/Autosaves/Game/Canons/BP_Canon_Auto9.uasset'
+[2021.06.09-23.26.42:016][178]LogFileHelpers: Auto-saving content packages took 0.112
+[2021.06.09-23.36.42:690][310]LogUObjectHash: Compacting FUObjectHashTables data took   6.66ms
+[2021.06.09-23.36.42:697][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainLevel" FILE="D:/UŚ/SilnikiGier/Zadanie_02/AKowalewska_Zadanie2/Saved/Autosaves/Game/Levels/MainLevel_Auto0.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.06.09-23.36.42:742][310]LogSavePackage: Moving 'D:/UŚ/SilnikiGier/Zadanie_02/AKowalewska_Zadanie2/Saved/MainLevel_Auto0A676ADFD4B212F74CD02E9A082887AF8.tmp' to 'D:/UŚ/SilnikiGier/Zadanie_02/AKowalewska_Zadanie2/Saved/Autosaves/Game/Levels/MainLevel_Auto0.umap'
+[2021.06.09-23.36.42:743][310]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainLevel' took 0.444
+[2021.06.09-23.36.42:743][310]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.444
+[2021.06.09-23.36.42:743][310]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Canons/BP_Canon] ([2] browsable assets)...
+[2021.06.09-23.36.42:773][310]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Canons/BP_Canon.BP_Canon]
+[2021.06.09-23.36.42:801][310]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Canons/BP_Canon.BP_Canon]
+[2021.06.09-23.36.42:802][310]OBJ SavePackage: Finished generating thumbnails for package [/Game/Canons/BP_Canon]
+[2021.06.09-23.36.42:802][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Canons/BP_Canon" FILE="D:/UŚ/SilnikiGier/Zadanie_02/AKowalewska_Zadanie2/Saved/Autosaves/Game/Canons/BP_Canon_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2021.06.09-23.36.42:818][310]LogSavePackage: Moving 'D:/UŚ/SilnikiGier/Zadanie_02/AKowalewska_Zadanie2/Saved/BP_Canon_Auto015F3C82A47DD7F73008148B226A3232C.tmp' to 'D:/UŚ/SilnikiGier/Zadanie_02/AKowalewska_Zadanie2/Saved/Autosaves/Game/Canons/BP_Canon_Auto0.uasset'
+[2021.06.09-23.36.42:819][310]LogFileHelpers: Auto-saving content packages took 0.076
+[2021.06.09-23.39.08:687][867]BlueprintLog: New page: Compile BP_Canon
+[2021.06.09-23.39.09:115][867]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2021.06.09-23.39.11:546][992]LogTemp: Repeating last play command: Simulate
+[2021.06.09-23.39.11:559][992]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.09-23.39.11:560][992]PIE: New page: SIE session: MainLevel (10 cze 2021, 03:39:11)
+[2021.06.09-23.39.11:560][992]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.06.09-23.39.11:574][992]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013198s)
+[2021.06.09-23.39.11:575][992]LogAIModule: Creating AISystem for world MainLevel
+[2021.06.09-23.39.11:576][992]LogPlayLevel: PIE: World Init took: (0.001930s)
+[2021.06.09-23.39.11:576][992]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.015609s)
+[2021.06.09-23.39.11:598][992]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2021.06.09-23.39.11:600][992]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.06.09-23.39.11:600][992]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.09-23.39.11:600][992]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.09-23.39.11:600][992]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.09-23.39.11:600][992]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.09-23.39.11:600][992]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.09-23.39.11:601][992]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.09-23.39.11:601][992]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.09-23.39.11:601][992]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.09-23.39.11:602][992]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.09-23.39.11:602][992]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.09-23.39.11:608][992]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.09-23.39.11:608][992]LogAudioMixer: Display: 1: FrontRight
+[2021.06.09-23.39.11:691][992]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek High Definition Audio)
+[2021.06.09-23.39.11:691][992]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.09-23.39.11:691][992]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.09-23.39.11:691][992]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.09-23.39.11:695][992]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.09-23.39.11:695][992]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.09-23.39.11:695][992]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.09-23.39.11:735][992]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.09-23.39.11:735][992]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.09-23.39.11:735][992]LogInit: FAudioDevice initialized.
+[2021.06.09-23.39.11:735][992]LogAudio: Display: Audio Device (ID: 7) registered with world 'MainLevel'.
+[2021.06.09-23.39.11:758][992]LogLoad: Game class is 'BP_GameMode_C'
+[2021.06.09-23.39.11:761][992]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2021.06.10-01.39.11
+[2021.06.09-23.39.11:762][992]LogWorld: Bringing up level for play took: 0.002385
+[2021.06.09-23.39.11:781][992]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.06.09-23.39.11:785][992]PIE: Server logged in
+[2021.06.09-23.39.11:786][992]PIE: Play in editor total start time 0,235 seconds.
+[2021.06.09-23.39.20:698][484]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.09-23.39.20:698][484]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainLevel
+[2021.06.09-23.39.20:698][484]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2021.06.09-23.39.20:698][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.09-23.39.20:711][484]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.09-23.39.20:722][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.09-23.39.20:744][484]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.09-23.39.20:744][484]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.09-23.39.20:745][484]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.09-23.39.20:768][484]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.09-23.39.20:772][484]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2021.06.09-23.39.20:802][485]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.06.09-23.39.32:964][206]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Projectiles/BP_Projectile.BP_Projectile
+[2021.06.09-23.40.05:651][745]BlueprintLog: New page: Compile BP_Projectile
+[2021.06.09-23.40.05:779][745]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2021.06.09-23.40.11:018][  8]LogTemp: Repeating last play command: Simulate
+[2021.06.09-23.40.11:030][  8]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.09-23.40.11:030][  8]PIE: New page: SIE session: MainLevel (10 cze 2021, 03:40:11)
+[2021.06.09-23.40.11:031][  8]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2021.06.09-23.40.11:038][  8]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007714s)
+[2021.06.09-23.40.11:039][  8]LogAIModule: Creating AISystem for world MainLevel
+[2021.06.09-23.40.11:040][  8]LogPlayLevel: PIE: World Init took: (0.001381s)
+[2021.06.09-23.40.11:040][  8]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.009371s)
+[2021.06.09-23.40.11:100][  8]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2021.06.09-23.40.11:101][  8]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.06.09-23.40.11:102][  8]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.09-23.40.11:102][  8]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.09-23.40.11:102][  8]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.09-23.40.11:102][  8]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.09-23.40.11:102][  8]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.09-23.40.11:102][  8]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.09-23.40.11:102][  8]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.09-23.40.11:102][  8]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.09-23.40.11:103][  8]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.09-23.40.11:103][  8]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.09-23.40.11:108][  8]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.09-23.40.11:108][  8]LogAudioMixer: Display: 1: FrontRight
+[2021.06.09-23.40.11:189][  8]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek High Definition Audio)
+[2021.06.09-23.40.11:189][  8]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.09-23.40.11:189][  8]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.09-23.40.11:189][  8]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.09-23.40.11:190][  8]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.09-23.40.11:190][  8]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.09-23.40.11:190][  8]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.09-23.40.11:247][  8]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.09-23.40.11:247][  8]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.09-23.40.11:247][  8]LogInit: FAudioDevice initialized.
+[2021.06.09-23.40.11:247][  8]LogAudio: Display: Audio Device (ID: 8) registered with world 'MainLevel'.
+[2021.06.09-23.40.11:258][  8]LogLoad: Game class is 'BP_GameMode_C'
+[2021.06.09-23.40.11:260][  8]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 60) at 2021.06.10-01.40.11
+[2021.06.09-23.40.11:261][  8]LogWorld: Bringing up level for play took: 0.001662
+[2021.06.09-23.40.11:261][  8]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2021.06.09-23.40.11:264][  8]PIE: Server logged in
+[2021.06.09-23.40.11:265][  8]PIE: Play in editor total start time 0,242 seconds.
+[2021.06.09-23.40.17:909][386]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.09-23.40.17:909][386]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainLevel
+[2021.06.09-23.40.17:910][386]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2021.06.09-23.40.17:910][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.09-23.40.17:918][386]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.09-23.40.17:931][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.09-23.40.17:956][386]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.09-23.40.17:956][386]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.09-23.40.17:957][386]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.09-23.40.17:979][386]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.09-23.40.17:982][386]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2021.06.09-23.40.18:026][387]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2021.06.09-23.43.58:641][948]LogSlate: Window 'BP_Projectile' being destroyed
+[2021.06.09-23.43.58:660][948]LogSlate: Window 'BP_Projectile' being destroyed
+[2021.06.09-23.43.58:666][948]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.06.09-23.43.58:666][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.09-23.43.58:738][948]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.06.09-23.43.58:738][948]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.06.09-23.43.58:738][948]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.09-23.45.35:269][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainLevel" FILE="D:/UŚ/SilnikiGier/Zadanie_02/AKowalewska_Zadanie2/Content/Levels/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.09-23.45.35:296][661]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2021.06.09-23.45.35:406][661]LogSavePackage: Moving 'D:/UŚ/SilnikiGier/Zadanie_02/AKowalewska_Zadanie2/Saved/MainLevel8B4DCD0B44F8A5275AFEF2B4B68F7504.tmp' to 'D:/UŚ/SilnikiGier/Zadanie_02/AKowalewska_Zadanie2/Content/Levels/MainLevel.umap'
+[2021.06.09-23.45.35:419][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainLevel_BuiltData" FILE="D:/UŚ/SilnikiGier/Zadanie_02/AKowalewska_Zadanie2/Content/Levels/MainLevel_BuiltData.uasset" SILENT=true
+[2021.06.09-23.45.35:475][661]LogSavePackage: Moving 'D:/UŚ/SilnikiGier/Zadanie_02/AKowalewska_Zadanie2/Saved/MainLevel_BuiltData1BE718DE4651D026AD8A1B989390F407.tmp' to 'D:/UŚ/SilnikiGier/Zadanie_02/AKowalewska_Zadanie2/Content/Levels/MainLevel_BuiltData.uasset'
+[2021.06.09-23.45.35:497][661]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.09-23.45.35:498][661]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/MainLevel_BuiltData.MainLevel_BuiltData
+[2021.06.09-23.45.35:498][661]LogContentValidation: Display: Validating World /Game/Levels/MainLevel.MainLevel

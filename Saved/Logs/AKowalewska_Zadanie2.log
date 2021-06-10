@@ -1072,3 +1072,50 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.10-09.32.51:110][608]AssetCheck: New page: Asset Save: multiple assets
 [2021.06.10-09.32.51:110][608]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/MainLevel_BuiltData.MainLevel_BuiltData
 [2021.06.10-09.32.51:110][608]LogContentValidation: Display: Validating World /Game/Levels/MainLevel.MainLevel
+[2021.06.10-09.38.37:846][469]BlueprintLog: New page: Collapse to Function
+[2021.06.10-09.42.50:232][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2021.06.10-09.42.50:300][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainLevel" FILE="D:/UŚ/SilnikiGier/Zadanie_02/AKowalewska_Zadanie2/Saved/Autosaves/Game/Levels/MainLevel_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.06.10-09.42.50:769][ 36]LogSavePackage: Moving 'D:/UŚ/SilnikiGier/Zadanie_02/AKowalewska_Zadanie2/Saved/MainLevel_Auto76B752AAF4DF023BCB8A9E8B1FDEA15B1.tmp' to 'D:/UŚ/SilnikiGier/Zadanie_02/AKowalewska_Zadanie2/Saved/Autosaves/Game/Levels/MainLevel_Auto7.umap'
+[2021.06.10-09.42.50:789][ 36]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainLevel' took 0.633
+[2021.06.10-09.42.50:789][ 36]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.633
+[2021.06.10-09.42.50:790][ 36]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Actors/BP_Volume_WinCondition_01] ([2] browsable assets)...
+[2021.06.10-09.42.50:790][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/BP_Volume_WinCondition_01]
+[2021.06.10-09.42.50:863][ 36]LogSavePackage: Moving 'D:/UŚ/SilnikiGier/Zadanie_02/AKowalewska_Zadanie2/Saved/BP_Volume_WinCondition_01_Auto70D5F94D448FA9FE54954169620DEE310.tmp' to 'D:/UŚ/SilnikiGier/Zadanie_02/AKowalewska_Zadanie2/Saved/Autosaves/Game/Blueprints/Actors/BP_Volume_WinCondition_01_Auto7.uasset'
+[2021.06.10-09.42.50:864][ 36]LogFileHelpers: Auto-saving content packages took 0.075
+[2021.06.10-09.51.33:543][ 72]BlueprintLog: New page: Compile BP_Volume_WinCondition_01
+[2021.06.10-09.51.33:568][ 72]LogBlueprint: Error: [AssetLog] D:\UŚ\SilnikiGier\Zadanie_02\AKowalewska_Zadanie2\Content\Blueprints\Actors\BP_Volume_WinCondition_01.uasset: [Compiler] Variable  Test  is read-only within this context and cannot be set to a new value
+[2021.06.10-09.51.34:052][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2021.06.10-09.52.13:030][910]BlueprintLog: New page: Compile BP_Volume_WinCondition_01
+[2021.06.10-09.52.13:037][910]LogBlueprint: Error: [AssetLog] D:\UŚ\SilnikiGier\Zadanie_02\AKowalewska_Zadanie2\Content\Blueprints\Actors\BP_Volume_WinCondition_01.uasset: [Compiler] Variable  Test  is read-only within this context and cannot be set to a new value
+[2021.06.10-09.52.13:147][910]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2021.06.10-09.53.15:560][915]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2021.06.10-09.53.15:564][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainLevel" FILE="D:/UŚ/SilnikiGier/Zadanie_02/AKowalewska_Zadanie2/Saved/Autosaves/Game/Levels/MainLevel_Auto8.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.06.10-09.53.16:064][915]LogSavePackage: Moving 'D:/UŚ/SilnikiGier/Zadanie_02/AKowalewska_Zadanie2/Saved/MainLevel_Auto815839C5846D1FF5C5AE5AB9F3DADF538.tmp' to 'D:/UŚ/SilnikiGier/Zadanie_02/AKowalewska_Zadanie2/Saved/Autosaves/Game/Levels/MainLevel_Auto8.umap'
+[2021.06.10-09.53.16:066][915]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainLevel' took 0.584
+[2021.06.10-09.53.16:066][915]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.584
+[2021.06.10-09.53.16:066][915]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Actors/BP_Volume_WinCondition_01] ([2] browsable assets)...
+[2021.06.10-09.53.16:066][915]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/BP_Volume_WinCondition_01]
+[2021.06.10-09.53.16:157][915]LogSavePackage: Moving 'D:/UŚ/SilnikiGier/Zadanie_02/AKowalewska_Zadanie2/Saved/BP_Volume_WinCondition_01_Auto8CEAE5D054D20BF3B064A2C84845DA12A.tmp' to 'D:/UŚ/SilnikiGier/Zadanie_02/AKowalewska_Zadanie2/Saved/Autosaves/Game/Blueprints/Actors/BP_Volume_WinCondition_01_Auto8.uasset'
+[2021.06.10-09.53.16:157][915]LogFileHelpers: Auto-saving content packages took 0.091
+[2021.06.10-09.53.24:587][328]BlueprintLog: New page: Compile BP_Volume_WinCondition_01
+[2021.06.10-09.53.24:668][328]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2021.06.10-09.59.45:590][ 56]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Libraries/ML_Actors" FILE="D:/UŚ/SilnikiGier/Zadanie_02/AKowalewska_Zadanie2/Content/Libraries/ML_Actors.uasset" SILENT=true
+[2021.06.10-09.59.45:612][ 56]LogSavePackage: Moving 'D:/UŚ/SilnikiGier/Zadanie_02/AKowalewska_Zadanie2/Saved/ML_Actors5C03C9494573014548A2EAB28D8BEE0C.tmp' to 'D:/UŚ/SilnikiGier/Zadanie_02/AKowalewska_Zadanie2/Content/Libraries/ML_Actors.uasset'
+[2021.06.10-09.59.45:637][ 56]AssetCheck: New page: Asset Save: ML_Actors
+[2021.06.10-09.59.45:637][ 56]LogContentValidation: Display: Validating Blueprint /Game/Libraries/ML_Actors.ML_Actors
+[2021.06.10-09.59.48:153][178]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainLevel" FILE="D:/UŚ/SilnikiGier/Zadanie_02/AKowalewska_Zadanie2/Content/Levels/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.10-09.59.48:233][178]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2021.06.10-09.59.48:731][178]LogSavePackage: Moving 'D:/UŚ/SilnikiGier/Zadanie_02/AKowalewska_Zadanie2/Saved/MainLevel120284534D5333DD8733219D49415E7C.tmp' to 'D:/UŚ/SilnikiGier/Zadanie_02/AKowalewska_Zadanie2/Content/Levels/MainLevel.umap'
+[2021.06.10-09.59.48:740][178]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainLevel_BuiltData" FILE="D:/UŚ/SilnikiGier/Zadanie_02/AKowalewska_Zadanie2/Content/Levels/MainLevel_BuiltData.uasset" SILENT=true
+[2021.06.10-09.59.48:900][178]LogSavePackage: Moving 'D:/UŚ/SilnikiGier/Zadanie_02/AKowalewska_Zadanie2/Saved/MainLevel_BuiltDataD755AF0C459B95BEFD145F8E374BAB3D.tmp' to 'D:/UŚ/SilnikiGier/Zadanie_02/AKowalewska_Zadanie2/Content/Levels/MainLevel_BuiltData.uasset'
+[2021.06.10-09.59.48:922][178]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.10-09.59.48:922][178]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/MainLevel_BuiltData.MainLevel_BuiltData
+[2021.06.10-09.59.48:922][178]LogContentValidation: Display: Validating World /Game/Levels/MainLevel.MainLevel
+[2021.06.10-10.00.14:362][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainLevel" FILE="D:/UŚ/SilnikiGier/Zadanie_02/AKowalewska_Zadanie2/Content/Levels/MainLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.06.10-10.00.14:407][332]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2021.06.10-10.00.15:525][332]LogSavePackage: Moving 'D:/UŚ/SilnikiGier/Zadanie_02/AKowalewska_Zadanie2/Saved/MainLevel1D3999194DFDBA4E0DD6FFABCF852093.tmp' to 'D:/UŚ/SilnikiGier/Zadanie_02/AKowalewska_Zadanie2/Content/Levels/MainLevel.umap'
+[2021.06.10-10.00.15:568][332]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/MainLevel_BuiltData" FILE="D:/UŚ/SilnikiGier/Zadanie_02/AKowalewska_Zadanie2/Content/Levels/MainLevel_BuiltData.uasset" SILENT=true
+[2021.06.10-10.00.15:960][332]LogSavePackage: Moving 'D:/UŚ/SilnikiGier/Zadanie_02/AKowalewska_Zadanie2/Saved/MainLevel_BuiltData930CE25E470F97139BE599B56821E3BE.tmp' to 'D:/UŚ/SilnikiGier/Zadanie_02/AKowalewska_Zadanie2/Content/Levels/MainLevel_BuiltData.uasset'
+[2021.06.10-10.00.15:986][332]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.10-10.00.15:986][332]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/MainLevel_BuiltData.MainLevel_BuiltData
+[2021.06.10-10.00.15:986][332]LogContentValidation: Display: Validating World /Game/Levels/MainLevel.MainLevel
